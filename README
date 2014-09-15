@@ -1,9 +1,0 @@
-Description:
-============
-U-boot:
-u-boot-Digilent-Dev
-https://github.com/Digilent/u-boot-Digilent-Dev
-
-Kernel:
-linux-digilent 3.6 Linero
-https://github.com/shenerguang/linux-digilent
