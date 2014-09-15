@@ -1,6 +1,9 @@
 Welcom to Zed Robot Boot Repo!
 
-You can download "ready to download" folder to enjoy zrobotIV.
+If you want run the whole demo immediately,
+You can download "ready to download" folder to the fat partition,
+And download another repo named "Zrobot_Ubuntu" to the ext partition.
+https://github.com/shenerguang/Zrobot_Ubuntu
 
 Or you can download raw and maybe change your bit file,
 and merge changes into devicetree dts file and recompile it to dtb
