@@ -1,9 +1,13 @@
 Welcom to Zed Robot Boot Repo!
 
 If you want run the whole demo immediately,
-You can download "ready to download" folder to the fat partition,
-And download another repo named "Zrobot_Ubuntu" to the ext partition.
+You can 
+1.download "ready to download" folder to the fat partition,
+
+2.And download another repo named "Zrobot_Ubuntu" to the ext partition.
 https://github.com/shenerguang/Zrobot_Ubuntu
+
+3.replace *.ko provided in driver_replace folder.
 
 Or you can download raw and maybe change your bit file,
 and merge changes into devicetree dts file and recompile it to dtb
