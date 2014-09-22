@@ -1,6 +1,9 @@
 Welcom to Zybo Robot Boot Repo!
 
-You can download "ready to download" folder to enjoy zrobotIV.
+You can download "ready to download" folder to the fat partition
+and ubuntu filesystem https://github.com/shenerguang/Zrobot_Ubuntu
+and enjoy zrobotIV for zybo.
+
 
 Or you can download raw and maybe change your bit file,
 and merge changes into devicetree dts file and recompile it to dtb
