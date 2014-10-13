@@ -1,13 +1,13 @@
 Description:
 ============
 U-boot:
-u-boot-Digilent-Dev
-https://github.com/shenerguang/u-boot-Digilent-Dev
-make zynq_zybo
+u-boot-digilent
+https://github.com/Digilent/linux-digilent/tree/v3.6-digilent-13.01
+make zynq_zed
 
 Kernel:
 linux-digilent 3.6 Linaro
 https://github.com/shenerguang/linux-digilent
-make zybo_robot_defconfig
+make desktop_zybo_defconfig
 make ARCH=arm menuconfig
-make ARCH=arm UIMAGE_LOADADDR=0x8000 uImage
+make ARCH=arm zImage
